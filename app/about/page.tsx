@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "@/app/components/ui/button"
+import { Button } from "@/app/_components/ui/button"
 import {
   Card,
   CardContent,
@@ -8,16 +8,16 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/app/components/ui/card"
-import { Input } from "@/app/components/ui/input"
-import { Label } from "@/app/components/ui/label"
+} from "@/app/_components/ui/card"
+import { Input } from "@/app/_components/ui/input"
+import { Label } from "@/app/_components/ui/label"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/app/components/ui/select"
+} from "@/app/_components/ui/select"
 
 const About = () => {
 
